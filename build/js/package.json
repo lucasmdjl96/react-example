@@ -1,0 +1,28 @@
+{
+  "name": "react-example",
+  "version": "1.0-SNAPSHOT",
+  "private": true,
+  "workspaces": [
+    "packages\\react-example",
+    "packages\\react-example-test",
+    "packages_imported\\kotlin\\1.7.10",
+    "packages_imported\\kotlinx-coroutines-core\\1.6.4",
+    "packages_imported\\kotlinx-atomicfu\\0.17.3",
+    "packages_imported\\kotlinx-serialization-kotlinx-serialization-json-js-legacy\\1.4.0",
+    "packages_imported\\kotlinx-serialization-kotlinx-serialization-core-js-legacy\\1.4.0",
+    "packages_imported\\kotlin-test-js-runner\\1.7.10",
+    "packages_imported\\kotlin-emotion\\11.9.3-pre.354",
+    "packages_imported\\kotlin-react-core\\18.2.0-pre.354",
+    "packages_imported\\kotlin-csstype\\3.1.0-pre.354",
+    "packages_imported\\kotlin-js\\1.0.0-pre.354",
+    "packages_imported\\kotlin-react\\18.2.0-pre.354",
+    "packages_imported\\kotlin-react-dom\\18.2.0-pre.354",
+    "packages_imported\\kotlin-browser\\0.0.1-pre.354"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
